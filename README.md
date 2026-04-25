@@ -1,6 +1,6 @@
-- 👋 Hi,I am Babatunde Saka
+- 👋 Hi, I am Ayomde Saka
 - 👀 A Product Designer
-- 🌱 Learning currently Frontend web development and Exploring Marketing. 
+- 🌱 Learning currently Frontend web development and exploring Marketing. 
 - 💞️ I’m available for collaborations and learning.
 
 
